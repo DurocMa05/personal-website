@@ -3636,7 +3636,7 @@ body.is-preload .wrapper.fade>.inner {
 
 #footer>.inner .menu {
 	font-size: 0.8em;
-	color: rgba(168, 168, 168, 0.5);
+	color: rgba(0, 255, 25, 0.5);
 }
 
 #header+#wrapper+#footer>.inner {
