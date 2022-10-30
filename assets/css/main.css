@@ -189,7 +189,7 @@ html {
 }
 
 body {
-	background: #4c00ff;
+	background: #00dd0d;
 }
 
 body.is-preload *,
@@ -314,10 +314,10 @@ h1.major {
 }
 
 h1.major:after {
-	background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-	background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-	background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-	background-image: linear-gradient(to right, #5e42a6, #b74e91);
+	background-image: -moz-linear-gradient(to right, #0b8000, #00ff11);
+	background-image: -webkit-linear-gradient(to right, #0b8000, #00ff11);
+	background-image: -ms-linear-gradient(to right, #0b8000, #00ff11);
+	background-image: linear-gradient(to right, #0b8000, #00ff11);
 	-moz-transition: max-width 0.2s ease;
 	-webkit-transition: max-width 0.2s ease;
 	-ms-transition: max-width 0.2s ease;
@@ -2654,27 +2654,27 @@ input[type="radio"]+label:before {
 }
 
 .wrapper.style1 .icon.major:before {
-	color: #5e42a6;
+	color: #00dd0d;
 }
 
 .wrapper.style1-alt .icon.major:before {
-	color: #493382;
+	color: #00dd0d;
 }
 
 .wrapper.style2 .icon.major:before {
-	color: #5052b5;
+	color: #00dd0d;
 }
 
 .wrapper.style2-alt .icon.major:before {
-	color: #3e4094;
+	color: #00dd0d;
 }
 
 .wrapper.style3 .icon.major:before {
-	color: #b74e91;
+	color: #00dd0d;
 }
 
 .wrapper.style3-alt .icon.major:before {
-	color: #953d75;
+	color: #00dd0d;
 }
 
 /* Image */
@@ -3493,7 +3493,7 @@ body.is-preload .wrapper.fade>.inner {
 	display: -webkit-flex;
 	display: -ms-flex;
 	display: flex;
-	background-color: #5e42a6;
+	background-color: #00dd0d;
 	cursor: default;
 	padding: 1.75em 2em;
 }
