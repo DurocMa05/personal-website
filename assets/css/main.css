@@ -2032,7 +2032,7 @@ input[type="button"].primary,
 button.primary,
 .button.primary {
 	background-color: #ffffff;
-	color: #312450 !important;
+	color: #00dd0d !important;
 }
 
 input[type="submit"].primary:after,
@@ -2474,7 +2474,7 @@ select {
 
 select option {
 	color: #ffffff;
-	background: #312450;
+	background: #00dd0d;
 }
 
 select:focus::-ms-value {
@@ -2562,7 +2562,7 @@ input[type="checkbox"]:checked+label:before,
 input[type="radio"]:checked+label:before {
 	background: #ffffff;
 	border-color: #ffffff;
-	color: #b74e91;
+	color: #00dd0d;
 	content: '\f00c';
 }
 
@@ -2643,7 +2643,7 @@ input[type="radio"]+label:before {
 	display: block;
 	background: #ffffff;
 	border-radius: 100%;
-	color: #312450;
+	color: #00dd0d;
 	text-align: center;
 	line-height: 2.5em;
 	margin: 0 0 1.3em 0;
@@ -3359,31 +3359,31 @@ table.alt tfoot {
 }
 
 .wrapper.alt {
-	background-color: #261c3e;
+	background-color: #00dd0d;
 }
 
 .wrapper.style1 {
-	background-color: #4b4b4b;
+	background-color: #00dd0d;
 }
 
 .wrapper.style1-alt {
-	background-color: #000000;
+	background-color: #00dd0d;
 }
 
 .wrapper.style2 {
-	background-color: #4b4b4b;
+	background-color: #00dd0d;
 }
 
 .wrapper.style2-alt {
-	background-color: #3e4094;
+	background-color: #00dd0d;
 }
 
 .wrapper.style3 {
-	background-color: #4b4b4b;
+	background-color: #00dd0d;
 }
 
 .wrapper.style3-alt {
-	background-color: #953d75;
+	background-color: #00dd0d;
 }
 
 .wrapper.fullscreen {
